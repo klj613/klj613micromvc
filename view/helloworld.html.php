@@ -6,10 +6,10 @@
     <body>
         <h1>Hello <?php echo $name;?>!</h1>
 <?php
-	echo $this->render('vars.html', array('Name' => $name));
+    echo $this->render('vars.html', array('Name' => $name));
 ?>
 <?php
-	echo $this->fetch('Main::otherPages');
+    echo $this->fetch('Main::otherPages');
 ?>
     </body>
 </html>

@@ -6,10 +6,10 @@
     <body>
         <h1>This is a profile page</h1>
 <?php
-	echo $this->render('vars.html', array('UserId' => $userId, 'Username' => $user));
+    echo $this->render('vars.html', array('UserId' => $userId, 'Username' => $user));
 ?>
 <?php
-	echo $this->fetch('Main::otherPages');
+    echo $this->fetch('Main::otherPages');
 ?>
     </body>
 </html>
