@@ -4,7 +4,7 @@
      * 
      * (c) Kristian Lewis Jones <klj613@kristianlewisjones.com>
      * 
-     * For the full copyight and license information, please view the LICENSE
+     * For the full copyright and license information, please view the LICENSE
      * file that was distributed with this source code.
      */
 
